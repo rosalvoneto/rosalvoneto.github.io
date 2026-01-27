@@ -4,6 +4,11 @@ body {
   margin: 60px auto;
   line-height: 1.6;
   color: #111;
+  padding: 0 16px;
+}
+
+nav {
+  margin-bottom: 28px;
 }
 
 a {
